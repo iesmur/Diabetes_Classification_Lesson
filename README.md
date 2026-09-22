@@ -1,3 +1,6 @@
+
+🔗 SDAIA Academy on GitHub
+
 # Diabetes Classification
 
 This is my training project for the **SDAIA Academy** program. The goal is to build a machine learning model that predicts whether a patient has diabetes based on their health data.
@@ -38,6 +41,3 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, LightGBM, SHA
 I worked on this using regular commits as I progressed through each step (EDA, cleaning, modeling, evaluation), so the commit history reflects the workflow of the project.
 
 ## Training program
-
-This project was done as part of the **SDAIA Academy** training program.
-🔗 [SDAIA Academy on GitHub](https://github.com/SDAIAAcademy)
