@@ -1,6 +1,5 @@
 
-🔗 SDAIA Academy on GitHub
-
+[SDAIA Academy on GitHub](https://github.com/SDAIAAcademy)
 # Diabetes Classification
 
 This is my training project for the **SDAIA Academy** program. The goal is to build a machine learning model that predicts whether a patient has diabetes based on their health data.
