@@ -35,9 +35,3 @@ Make sure `diabetes_raw.csv` is in the same folder as the notebook.
 ## Tools used
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, LightGBM, SHAP
-
-## Notes on Git
-
-I worked on this using regular commits as I progressed through each step (EDA, cleaning, modeling, evaluation), so the commit history reflects the workflow of the project.
-
-## Training program
